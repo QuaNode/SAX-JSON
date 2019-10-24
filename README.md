@@ -1,2 +1,2 @@
-# SAXJSON
+# SAX-JSON
 SAX-like JSON parser
